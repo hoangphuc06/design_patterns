@@ -1,0 +1,15 @@
+D:\design-pattern\Interpreter\InterpreterDesignPattern\InterpreterDesignPattern\bin\Debug\net6.0\InterpreterDesignPattern.exe
+D:\design-pattern\Interpreter\InterpreterDesignPattern\InterpreterDesignPattern\bin\Debug\net6.0\InterpreterDesignPattern.deps.json
+D:\design-pattern\Interpreter\InterpreterDesignPattern\InterpreterDesignPattern\bin\Debug\net6.0\InterpreterDesignPattern.runtimeconfig.json
+D:\design-pattern\Interpreter\InterpreterDesignPattern\InterpreterDesignPattern\bin\Debug\net6.0\InterpreterDesignPattern.dll
+D:\design-pattern\Interpreter\InterpreterDesignPattern\InterpreterDesignPattern\bin\Debug\net6.0\InterpreterDesignPattern.pdb
+D:\design-pattern\Interpreter\InterpreterDesignPattern\InterpreterDesignPattern\obj\Debug\net6.0\InterpreterDesignPattern.csproj.AssemblyReference.cache
+D:\design-pattern\Interpreter\InterpreterDesignPattern\InterpreterDesignPattern\obj\Debug\net6.0\InterpreterDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\design-pattern\Interpreter\InterpreterDesignPattern\InterpreterDesignPattern\obj\Debug\net6.0\InterpreterDesignPattern.AssemblyInfoInputs.cache
+D:\design-pattern\Interpreter\InterpreterDesignPattern\InterpreterDesignPattern\obj\Debug\net6.0\InterpreterDesignPattern.AssemblyInfo.cs
+D:\design-pattern\Interpreter\InterpreterDesignPattern\InterpreterDesignPattern\obj\Debug\net6.0\InterpreterDesignPattern.csproj.CoreCompileInputs.cache
+D:\design-pattern\Interpreter\InterpreterDesignPattern\InterpreterDesignPattern\obj\Debug\net6.0\InterpreterDesignPattern.dll
+D:\design-pattern\Interpreter\InterpreterDesignPattern\InterpreterDesignPattern\obj\Debug\net6.0\refint\InterpreterDesignPattern.dll
+D:\design-pattern\Interpreter\InterpreterDesignPattern\InterpreterDesignPattern\obj\Debug\net6.0\InterpreterDesignPattern.pdb
+D:\design-pattern\Interpreter\InterpreterDesignPattern\InterpreterDesignPattern\obj\Debug\net6.0\InterpreterDesignPattern.genruntimeconfig.cache
+D:\design-pattern\Interpreter\InterpreterDesignPattern\InterpreterDesignPattern\obj\Debug\net6.0\ref\InterpreterDesignPattern.dll
